@@ -13,6 +13,7 @@ Suggests:
     rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/JONATHONCHOW/ToyPackage
+URL: https://github.com/JONATHONCHOW/ToyPackage,
+    https://jonathonchow.github.io/ToyPackage/
 BugReports: https://github.com/JONATHONCHOW/ToyPackage/issues
 VignetteBuilder: knitr
